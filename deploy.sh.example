@@ -1,0 +1,3 @@
+export CLOUDFLARE_ACCOUNT_ID=ldsgkasdg
+export CLOUDFLARE_API_TOKEN=dgiasgksjdhgasd
+npx wrangler pages deploy

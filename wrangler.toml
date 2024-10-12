@@ -1,3 +1,0 @@
-#:schema node_modules/wrangler/config-schema.json
-name = "image-hoster"
-pages_build_output_dir = "./images"
